@@ -12,6 +12,7 @@
         <module>Observer</module>
         <module>Logger</module>
         <module>Decorator</module>
+        <module>State</module>
     </modules>
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
