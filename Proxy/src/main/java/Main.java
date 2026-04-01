@@ -8,7 +8,7 @@ public class Main {
         User pekka = new User("pekka");
 
         RealDocument doc1 = new RealDocument("doc1", "2026-01-01", "Public content");
-        RealDocument doc2 = new RealDocument("doc2", "2026-02-01", "Secret content");
+        RealDocument doc2 = new RealDocument("doc2", "2026-03-01", "Secret content");
 
         library.addDocument(doc1);
         library.addProtectedDocument(doc2);
