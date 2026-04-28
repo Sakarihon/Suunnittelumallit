@@ -19,6 +19,9 @@
         <module>Proxy</module>
         <module>Builder</module>
         <module>Adapter</module>
+        <module>Prototype</module>
+        <module>Iterator</module>
+        <module>Facade</module>
     </modules>
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
